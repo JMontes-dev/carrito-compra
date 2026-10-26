@@ -1,0 +1,48 @@
+* {
+    font-family: "Calibri", sans-serif;
+}
+
+body {
+    background-color: #121314;
+    margin: 0;
+}
+
+header {
+    background-color: #0c0d0e;
+    color: rgb(77, 246, 4);
+    padding: 15px 30px;
+}
+
+main {
+    color: rgb(77, 246, 4);
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
+
+table {
+    color: rgb(255, 255, 255);
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    text-align: left;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.unidades {
+    width: 60px;
+    padding: 4px;
+}
+
+h3 {
+    color: rgb(77, 246, 4);
+    text-align: right;
+}
